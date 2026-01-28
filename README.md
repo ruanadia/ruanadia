@@ -1,4 +1,4 @@
-## Bonjour ! 👋
+## Bonjour ! Je suis Nadia👋
 
 ### 🎓 Étudiante en L3 Informatique
 Je suis actuellement en troisième année de licence d'Informatique fondamentale à l'[Université Paris Cité](https://u-paris.fr/).
