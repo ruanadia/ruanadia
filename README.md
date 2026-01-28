@@ -1,9 +1,16 @@
-## Hi there 👋
+## Bonjour ! 👋
 
+### 🎓 Étudiante en L3 Informatique
+Je suis actuellement en troisième année de licence d'Informatique fondamentale à l'[Université Paris Cité](https://u-paris.fr/).
+
+### 🛠️ Mes compétences
+- **Langages :** Java, C, SQL, OCaml 
+- **Outils :** Git, Linux (Bash)
 <!--
 **ruakaly/ruakaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
