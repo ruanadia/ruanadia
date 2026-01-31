@@ -1,10 +1,10 @@
-## Bonjour ! Je suis Nadia👋
+## Hey there ⭐
 
 ### 🎓 Étudiante en L3 Informatique
-Je suis actuellement en troisième année de licence d'Informatique fondamentale à l'[Université Paris Cité](https://u-paris.fr/).
+Je suis Nadia, étudiante en troisième année de licence Informatique fondamentale à [l'Université Paris Cité](https://u-paris.fr/).
 
-### 🛠️ Mes compétences
-- **Langages :** Java, C, SQL, OCaml 
+### 🛠️ Outils & Technologies
+- **Langages :** Java, C, SQL, OCaml, PHP
 - **Outils :** Git, Linux (Bash)
 <!--
 **ruakaly/ruakaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
