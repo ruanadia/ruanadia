@@ -14,3 +14,8 @@ Je suis actuellement à la recherche d'une **alternance** pour la rentrée **202
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 </div>
+
+<br>
+<div align="center">
+  <img src="neighbor_totoro.avif" alt="Totoro" width="400">
+</div>
