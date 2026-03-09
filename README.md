@@ -21,5 +21,5 @@ Je suis actuellement à la recherche d'une **alternance** pour la rentrée **202
 
 <br>
 <div align="center">
-  <img src="totoro.webp" alt="Totoro" width="200">
+  <img src="totoro.webp" alt="Totoro" width="250">
 </div>
