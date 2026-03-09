@@ -5,6 +5,7 @@
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=true&width=600&height=60&lines=hello+there%2C+i'm+Nadia+⭐" alt="Typing SVG" />
     </a>
+</div>
 
 ### 🎓 Étudiante en L3 Informatique
 Je suis Nadia, étudiante en troisième année de licence Informatique fondamentale à [l'Université Paris Cité](https://u-paris.fr/). Vous retrouverez ici les projets que j'ai pu effectuer !
