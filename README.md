@@ -1,7 +1,4 @@
 <div align="center">
-    <img width="300" src="neighbor_totoro.avif" alt="Totoro ou ton GIF ici"/>    
-    <br/>
-    <br/>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=true&width=600&height=60&lines=hello+there%2C+i%27m+Nadia" alt="Typing SVG" />
     </a>
@@ -24,5 +21,5 @@ Je suis actuellement à la recherche d'une **alternance** pour la rentrée **202
 
 <br>
 <div align="center">
-  <img src="neighbor_totoro.avif" alt="Totoro" width="400">
+  <img src="neighbor_totoro.avif" alt="Totoro" width="300">
 </div>
