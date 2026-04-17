@@ -7,7 +7,7 @@
 ### 🎓 Étudiante en L3 Informatique
 Je suis Nadia, étudiante en troisième année de licence Informatique fondamentale à [l'Université Paris Cité](https://u-paris.fr/). Vous retrouverez ici les projets que j'ai pu effectuer !
 
-Je suis actuellement à la recherche d'une **alternance** pour la rentrée **2026**, dans le cadre de mon futur Master spécialisé en **Réseaux, Systèmes ou Cybersécurité**.
+Je suis actuellement à la recherche d'une **alternance** pour la rentrée **2026**, dans le cadre de mon **Master Informatique parcours Réseaux** à **Sorbonne Université**. 
 
 ### 🛠️ Outils & Technologies
 
